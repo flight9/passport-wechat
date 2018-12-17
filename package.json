@@ -1,21 +1,18 @@
 {
-  "name": "passport-wechat",
-  "version": "2.0.4",
+  "name": "passport-wechat-patched",
+  "version": "0.0.1",
   "main": "lib/index.js",
-  "description": "passport strategy for authenticating with wechat",
-  "homepage": "http://www.liangyali.com",
-  "bugs": "https://github.com/liangyali/passport-wechat/issues",
+  "description": "passport strategy for authenticating with wechat(patched)",
+  "bugs": "https://github.com/flight9/passport-wechat-patch/issues",
   "author": {
-    "name": "liangyali",
-    "email": "me@liangyali.com",
-    "url": "http://www.liangyali.com"
+    "name": "flight9",
   },
   "scripts": {
     "eslint": "./node_modules/.bin/eslint ./app"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/liangyali/passport-wechat"
+    "url": "https://github.com/flight9/passport-wechat-patch"
   },
   "license": "MIT",
   "files": [

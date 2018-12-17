@@ -4,7 +4,12 @@
 
 [Passport](http://passportjs.org/) strategy for authenticating with [Wechat](http://weixin.qq.com/)
 
-##支持功能
+## 修复说明
+### issue 1 fixed
+- 修复报错: 'passport.initialize() middleware not in use'
+- 基于原版 v2.0.4
+
+## 支持功能
 
 * 微信公众账号
 * 微信网站登陆
