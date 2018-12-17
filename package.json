@@ -5,7 +5,7 @@
   "description": "passport strategy for authenticating with wechat(patched)",
   "bugs": "https://github.com/flight9/passport-wechat-patch/issues",
   "author": {
-    "name": "flight9",
+    "name": "flight9"
   },
   "scripts": {
     "eslint": "./node_modules/.bin/eslint ./app"
