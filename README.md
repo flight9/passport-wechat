@@ -16,7 +16,7 @@
 
 ## 安装
 
-    $ npm install passport-wechat
+    $ npm install passport-wechat-patched
 
 ## 使用
 #### Configure  Strategy
