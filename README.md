@@ -1,4 +1,4 @@
-# passport-wechat v2.0
+# passport-wechat v2.0 (patched)
 
 [![Dependencies](https://david-dm.org/liangyali/passport-wechat.svg)](https://david-dm.org/liangyali/passport-wechat)
 
@@ -7,7 +7,7 @@
 ## 修复说明
 ### issue 1 fixed
 - 修复报错: 'passport.initialize() middleware not in use'
-- 基于原版 v2.0.4
+- 基于原版 v2.0.4, 不需要再装原版
 
 ## 支持功能
 
